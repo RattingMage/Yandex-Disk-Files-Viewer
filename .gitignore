@@ -1,0 +1,8 @@
+/.vscode
+/venv
+/yandex-disk-frontend/node_modules
+/YandexAPI/.env
+/YandexAPI/db.sqlite3
+/YandexAPI/disk/__pycache__
+/YandexAPI/disk/migrations/__pycache__
+/YandexAPI/YandexAPI/__pycache__
