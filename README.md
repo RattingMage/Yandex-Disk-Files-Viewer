@@ -20,8 +20,8 @@
 1. **Клонируйте репозиторий:**
 
     ```bash
-    git clone https://github.com/RattingMage/
-    cd 
+    git clone https://github.com/RattingMage/Yandex-Disk-Files-Viewer.git
+    cd Yandex-Disk-Files-Viewer
     ```
 
 2. **Настройка бэкенда (Django):**
